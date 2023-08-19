@@ -1,0 +1,32 @@
+.poke-details {
+  display: flex;
+  list-style: none;
+  font-size: 0.5rem;
+  text-transform: capitalize;
+  flex-direction: column;
+  width: 100%;
+  padding: 0 0 10px 10px;
+  background-color: white;
+  color: black;
+  border-radius: 10px;
+}
+.poke-details img {
+  width: 10rem;
+  align-self: center;
+}
+#content h1 {
+  text-transform: capitalize;
+  color: white;
+}
+#content {
+  color: white;
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+  height: 100vh;
+  margin: 0 auto;
+  align-items: center;
+  justify-content: space-around;
+  border-radius: 0px;
+  width: 20%;
+}
